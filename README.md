@@ -16,17 +16,10 @@ A portfolio of work completed as part of the Google Cybersecurity Professional c
 - Automate Cybersecurity Tasks with Python
 
 ### Final Grades (rounded): 
-Module 1: 96%
-
-Module 2: 94%
-
-Module 3: 99%
-
-Module 4: 100%
-
-Module 5: 
-
-Module 6: 
-
-Module 7: 
-Mod
+- Module 1: 96%
+- Module 2: 94%
+- Module 3: 99%
+- Module 4: 100%
+- Module 5: 
+- Module 6: 
+- Module 7: 
