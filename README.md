@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio
 A portfolio of work completed as part of the Google Cybersecurity Professional certification. 
 
-# Modules 
+### Modules 
 - Foundations of Cybersecurity
   - Professional Statement 
 - Play it Safe: Manage Security Risks
@@ -17,11 +17,16 @@ A portfolio of work completed as part of the Google Cybersecurity Professional c
 
 ### Final Grades (rounded): 
 Module 1: 96%
-Module 2: 94%
-Module 3: 99%
-Module 4: 100%
-Module 5: 
-Module 6: 
-Module 7: 
 
-Modu
+Module 2: 94%
+
+Module 3: 99%
+
+Module 4: 100%
+
+Module 5: 
+
+Module 6: 
+
+Module 7: 
+Mod
