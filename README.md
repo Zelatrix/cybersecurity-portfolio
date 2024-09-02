@@ -12,5 +12,7 @@ A portfolio of work completed as part of the Google Cybersecurity Professional c
   - Linux Workshop: Setting file permissions
   - SQL Workshop: Applying filters to SQL queries   
 - **Assets, Threats and Vulnerabilities**
+  - Vulnerability Assessment Report 
 - **Sound the Alarm: Detection and Response**
+  - Incident Handler's Journal 
 - **Automate Cybersecurity Tasks with Python** 
