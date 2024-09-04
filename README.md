@@ -15,4 +15,5 @@ A portfolio of work completed as part of the Google Cybersecurity Professional c
   - Vulnerability Assessment Report 
 - **Sound the Alarm: Detection and Response**
   - Incident Handler's Journal 
-- **Automate Cybersecurity Tasks with Python** 
+- **Automate Cybersecurity Tasks with Python**
+	- Python Workshop: Updating a file using Python
